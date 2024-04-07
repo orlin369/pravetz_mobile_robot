@@ -77,3 +77,12 @@ Page 45
 
 ![Page 46](https://raw.githubusercontent.com/orlin369/pravetz_mobile_robot/main/images/robotite/pg_46.jpg "Page 46")
 Page 46
+
+
+## Reference documentation
+
+- [The Big PEEKs, POKEs, and CALLs List Compiled by Edhel Iaur, Esq.](https://gswv.apple2.org.za/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/texts/pokes.html)
+
+- "Joystick Port"
+
+![Joystick Port](https://tinkerdifferent.com/attachments/1658360862111-png.6775/ "Joystick Port")
